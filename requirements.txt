@@ -1,14 +1,6 @@
-matplotlib
 numpy
 opencv_python
 Pillow
 tensorflow
 tensorflow_hub
-Flask
-gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
-flasgger
 streamlit
