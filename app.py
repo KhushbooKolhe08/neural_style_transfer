@@ -11,11 +11,9 @@ import urllib.request
 import tensorflow_hub as hub
 import tensorflow as tf
 import numpy as np
-from matplotlib import pyplot as plt
 import cv2
 import functools
 import os
-from matplotlib import gridspec
 
 model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2')
 
